@@ -82,5 +82,3 @@ my_list = 'Hola Python'
 print(my_list)              error es una clase string
 print(type(my_list))
 ''' 
-
-

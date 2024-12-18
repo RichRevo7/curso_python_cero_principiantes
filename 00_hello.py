@@ -14,4 +14,3 @@ print(type(3 + 1j)) # Tipo 'complex'
 print(type(True)) # Tipo 'bool'
 
 print(type(print('Mi cadena de texto'))) #tipo 'NoneType'
-

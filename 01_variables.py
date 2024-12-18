@@ -47,5 +47,3 @@ address = True
 address = 5
 address = 1.2
 print(type(address))
-
-
