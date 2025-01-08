@@ -39,4 +39,3 @@ print(3 < 4 and 'Hola' < 'python')
 print(3 < 4 or 'Hola' < 'python')
 print(3 < 4 or ('Hola' > 'python' and 4 == 4))
 print(not(3 > 4))
-
