@@ -20,3 +20,6 @@ print(math.pow(2, 8))
 from math import pi as PI_VALUE
 
 print(PI_VALUE)
+
+print(math.pi)
+print(math.pow(2, 8))
